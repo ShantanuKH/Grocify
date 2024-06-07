@@ -24,9 +24,6 @@ Grocify is a simple landing page for a grocery delivery service. It allows users
 You can see a live demo of the Grocify landing page [here](#).
 
 
-
-Contributions are welcome! If you find any bugs or have suggestions for improvements, feel free to open an issue or submit a pull request.
-
 ## Contact Here
 
 
