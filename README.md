@@ -4,15 +4,12 @@ Grocify is a simple landing page for a grocery delivery service. It allows users
 
 ![Grocify Landing Page](grocify_img/Image.png)
 
-## Table of Contents
+## Technologies Used
 
-- [Features](#features)
-- [Demo]( Demo)
-- [Usage](#usage)
-- [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Contributing](#contributing)
-- [License](#license)
+- HTML5
+- CSS3 (Tailwind CSS)
+- JavaScript
+
 
 ## Features
 
@@ -26,33 +23,18 @@ Grocify is a simple landing page for a grocery delivery service. It allows users
 
 You can see a live demo of the Grocify landing page [here](#).
 
-## Usage
 
-To use Grocify locally, follow these steps:
-
-1. Clone the repository:
-
-    ```bash
-    git clone https://github.com/your-username/grocify.git
-    ```
-
-2. Navigate to the project directory:
-
-    ```bash
-    cd grocify
-    ```
-
-3. Open `index.html` in your web browser.
-
-
-## Installation
-
-There's no need for installation. Simply clone the repository and open the `index.html` file in your web browser.
-
-## Contributing
 
 Contributions are welcome! If you find any bugs or have suggestions for improvements, feel free to open an issue or submit a pull request.
 
-## License
+## Contact Here
 
-This project is licensed under the [MIT License](LICENSE).
+
+   ### Shantanu Khadse
+  
+  GitHub: [ShantanuKH](https://github.com/ShantanuKH)
+  
+  Email: shantanukhadse784@gmail.com  
+  
+  LinkedIn: [shantanukhadse](https://www.linkedin.com/in/shantanu-khadse-a62585230/)
+
