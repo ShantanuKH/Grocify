@@ -33,7 +33,9 @@ To see the live demo of responsive Grocify landing page -> [Click here](https://
   
   GitHub: [ShantanuKH](https://github.com/ShantanuKH)
   
-  Email: shantanukhadse784@gmail.com  
+  Email: shantanukhadse784@gmail.com 
+
+  Mobile: +917841837112 
   
   LinkedIn: [shantanukhadse](https://www.linkedin.com/in/shantanu-khadse-a62585230/)
 
