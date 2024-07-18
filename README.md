@@ -2,7 +2,7 @@
 
 ## Overview
 
-Grocify, A responsive landing page for a grocery delivery service. Built with Tailwind CSS, it offers a modern design and smooth user experience across all devices. The page features product highlights, an easy-to-use navigation menu with a hamburger icon for smaller screens, and prominent call-to-action buttons for ordering groceries and downloading the mobile app.
+Grocify, A responsive landing page for a grocery delivery service. Built with Tailwind CSS, it offers a modern design and smooth user experience across all devices. The page features product highlights, an easy-to-use navigation menu with a hamburger icon for smaller screens, and prominent call-to-action buttons for ordering groceries and downloading the mobile app.Its just a frontend of the grocery web app
 
 <img src="https://github.com/ShantanuKH/Grocify/blob/main/grocify_img/Screenshot%20of%20Landing%20Page/Home%20Page%20lg.png" width=100%>
 
